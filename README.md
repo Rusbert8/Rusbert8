@@ -1,6 +1,6 @@
 # **Presentación**📄 
 
-Hola ✋😄. Mi nombre es **Rusbert Sánchez Rosario** y estoy iniciando en mi camino como futuro Programador 💻 y Desarrollador Web 📱. 
+**¡Hola!** ✋😄. Mi nombre es **Rusbert Sánchez Rosario** y estoy iniciando en mi camino como futuro Programador 💻 y Desarrollador Web 📱. 
 
 ## Estoy aprendiendo:
 
@@ -11,7 +11,7 @@ Hola ✋😄. Mi nombre es **Rusbert Sánchez Rosario** y estoy iniciando en mi 
 
 + [Facebook](https://www.facebook.com/profile.php?id=100010898806255)
 + [LinkedIn](https://www.linkedin.com/in/rusbert-s%C3%A1nchez-77b6a71a6/)
-+ **Correo** ☞ rusbertsanchez8@gmail.com
++ **E-mail** ☞ rusbertsanchez8@gmail.com
 
 <!--
 **Rusbert8/Rusbert8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
