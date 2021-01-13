@@ -1,6 +1,6 @@
 # **Presentación**📄 
 
-**¡Hola!** ✋😄. Mi nombre es **Rusbert Sánchez Rosario** y estoy iniciando en mi camino como futuro Programador 💻 y Desarrollador Web 📱. 
+**¡Hola!** ✋😄. Mi nombre es **Rusbert Sánchez** y estoy iniciando en mi camino como futuro Programador 💻 y Desarrollador Web 📱. 
 
 ## Estoy aprendiendo:
 
